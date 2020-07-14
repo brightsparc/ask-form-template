@@ -1,5 +1,9 @@
 # Alexa Form SDK Template
 
+**REPOSITORY DEPRECATED**. Please use supported version over at https://github.com/aws-samples/ask-form-template.
+
+Introduction
+
 This is the Alexa skill template for [ask-form-sdk](https://github.com/aws-samples/ask-form-sdk).
 
 ## Getting started
